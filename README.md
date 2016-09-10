@@ -1,2 +1,3 @@
 # JanWebSite
-A web site for my friend to show him how thankful I am.
+
+This website uses wordpress CMS and runs on PHP 7.0.
